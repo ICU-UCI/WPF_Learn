@@ -1,0 +1,82 @@
+﻿<Page x:Class="AnimationTest.ImageBigPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AnimationTest"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="ImageBigPage">
+    <Page.Resources>
+        <Style x:Key="buttonType"  TargetType="Button">
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Button.MouseEnter">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetProperty="LayoutTransform.(ScaleTransform.ScaleX)" To="1.1"
+                                                             Duration="0:0:0.1" />
+                                <DoubleAnimation Storyboard.TargetProperty="LayoutTransform.(ScaleTransform.ScaleY)" To="1.1"
+                                                             Duration="0:0:0.1" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="Button.MouseLeave">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetProperty="LayoutTransform.(ScaleTransform.ScaleX)" Duration="0:0:0.1" />
+                                <DoubleAnimation Storyboard.TargetProperty="LayoutTransform.(ScaleTransform.ScaleY)" Duration="0:0:0.1" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Style.Triggers>
+            <Setter Property="Height" Value="60"></Setter>
+            <Setter Property="Width" Value="60"></Setter>
+            <Setter Property="LayoutTransform">
+                <Setter.Value>
+                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                </Setter.Value>
+            </Setter>
+            <Setter Property="RenderTransformOrigin" Value="0.5,1" />
+        </Style>
+    </Page.Resources>
+    <Grid Height="300" Width="500">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Button Style="{StaticResource buttonType}" x:Name="btn" Content="" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="50" Height="50" >
+            <Button.Background>
+                <ImageBrush ImageSource="Image/草图.png"/>
+            </Button.Background>
+        </Button>
+        <!--投影的画法-->
+        <!--<Rectangle Grid.Row="1" Opacity="0.7" Name="aa"  Height="{Binding ElementName=btn, Path=ActualHeight}" 
+            Width="{Binding ElementName=btn, Path=ActualWidth}">
+            <Rectangle.Fill>
+                <VisualBrush Visual="{Binding ElementName=btn}"/>
+            </Rectangle.Fill>
+            <Rectangle.LayoutTransform>
+                <ScaleTransform ScaleY="{Binding ElementName=btn, Path=LayoutTransform.(ScaleTransform.ScaleY)}" 
+                                ScaleX="{Binding ElementName=btn, Path=LayoutTransform.(ScaleTransform.ScaleX)}"/>
+            </Rectangle.LayoutTransform>
+            <Rectangle.OpacityMask>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Offset="0" Color="#77000000"/>
+                    <GradientStop Offset="1" Color="Transparent"/>
+                </LinearGradientBrush>
+            </Rectangle.OpacityMask>
+        </Rectangle>-->
+    </Grid>
+    <!--<Grid>
+        <Button x:Name="button" Content="" HorizontalAlignment="Left" Margin="73.122,50.459,0,0" VerticalAlignment="Top" Width="75" Height="70.826">
+            <Button.Background>
+                <ImageBrush ImageSource="Image/草图.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>-->
+</Page>

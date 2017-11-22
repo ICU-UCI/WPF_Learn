@@ -1,0 +1,15 @@
+﻿<Window x:Class="AnimationTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimationTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Frame x:Name="frame" Content="" Height="301" Margin="10,10,0,0" Width="498" Grid.RowSpan="2" Source="/AnimationTest;component/LayoutPage.xaml" Visibility="Collapsed"/>
+        <Viewbox VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="这几天，因工作需要，要对一个小软件进行UI调整。主要内容就是让其能够实现自适应窗体（包括文字和图标），做成像WIN7下的Media Center一样的UI。自适应窗体，顾名思义，就是窗口内容的显示大小能够随着窗口的大小变化而变化。今天我来说说如何用WPF来实现自适应窗体。" Background="#FFC5BFBF" HorizontalAlignment="Left" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment" Margin="10"/>
+
+    </Grid>
+</Window>
