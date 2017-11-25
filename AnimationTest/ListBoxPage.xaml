@@ -40,11 +40,16 @@
                             <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
                         </Border>
                         <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="true">
+                                <Setter Property="Height" TargetName="Bd" Value="60"/>
+                                <Setter Property="Background" TargetName="Bd" Value="Yellow"/>
+                            </Trigger>
                             <MultiTrigger>
                                 <MultiTrigger.Conditions>
                                     <Condition Property="IsMouseOver" Value="True"/>
+                                    <Condition Property="IsSelected" Value="false"/>
                                 </MultiTrigger.Conditions>
-                                <Setter Property="Background" TargetName="Bd" Value="red"/>
+                                <Setter Property="Height" TargetName="Bd" Value="50"/>
                             </MultiTrigger>
                             <MultiTrigger>
                                 <MultiTrigger.Conditions>
@@ -55,10 +60,10 @@
                             </MultiTrigger>
                             <MultiTrigger>
                                 <MultiTrigger.Conditions>
-                                    <!--<Condition Property="Selector.IsSelectionActive" Value="True"/>-->
+                                    <Condition Property="Selector.IsSelectionActive" Value="True"/>
                                     <Condition Property="IsSelected" Value="True"/>
                                 </MultiTrigger.Conditions>
-                                <Setter Property="Height" TargetName="Bd" Value="60"/>
+                                
                                 <Setter Property="BorderBrush" TargetName="Bd" Value="{StaticResource Item.SelectedActive.Border}"/>
                             </MultiTrigger>
                             <Trigger Property="IsEnabled" Value="False">

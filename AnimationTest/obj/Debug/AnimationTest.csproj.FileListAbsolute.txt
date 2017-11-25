@@ -36,3 +36,5 @@ C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\Animat
 C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\AnimationTest\obj\Debug\AnimationTest.g.resources
 C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\AnimationTest\obj\Debug\AnimationTest.Properties.Resources.resources
 C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\AnimationTest\obj\Debug\AnimationTest.csproj.GenerateResource.Cache
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\AnimationTest\obj\Debug\TextBoxPage.g.cs
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\AnimationTest\obj\Debug\TextBoxPage.baml
