@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Frame x:Name="frame" Content="" Height="301" Margin="10,10,0,0" Width="498" Grid.RowSpan="2" Source="/AnimationTest;component/ListBoxPage.xaml"/>
+        <Frame x:Name="frame" Content="" Height="301" Margin="10,10,0,0" Width="498" Grid.RowSpan="2" Source="/AnimationTest;component/DateTimePicker.xaml"/>
         <Viewbox VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Collapsed"/>
         <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="这几天，因工作需要，要对一个小软件进行UI调整。主要内容就是让其能够实现自适应窗体（包括文字和图标），做成像WIN7下的Media Center一样的UI。自适应窗体，顾名思义，就是窗口内容的显示大小能够随着窗口的大小变化而变化。今天我来说说如何用WPF来实现自适应窗体。" Background="#FFC5BFBF" HorizontalAlignment="Left" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment" Margin="10" Visibility="Collapsed"/>
 
