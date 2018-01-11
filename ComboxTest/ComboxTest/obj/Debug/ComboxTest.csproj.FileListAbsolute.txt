@@ -1,0 +1,14 @@
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\bin\Debug\ComboxTest.exe.config
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\bin\Debug\ComboxTest.exe
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\bin\Debug\ComboxTest.pdb
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.csprojResolveAssemblyReference.cache
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\MainWindow.g.cs
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\App.g.cs
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest_MarkupCompile.cache
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest_MarkupCompile.lref
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\MainWindow.baml
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.g.resources
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.Properties.Resources.resources
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.csproj.GenerateResource.Cache
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.exe
+c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.pdb
