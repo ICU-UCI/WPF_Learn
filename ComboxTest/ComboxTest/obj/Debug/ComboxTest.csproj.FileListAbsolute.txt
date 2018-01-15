@@ -12,3 +12,17 @@ c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debu
 c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.csproj.GenerateResource.Cache
 c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.exe
 c:\users\gr\documents\visual studio 2015\Projects\ComboxTest\ComboxTest\obj\Debug\ComboxTest.pdb
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\bin\Debug\ComboxTest.exe.config
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\ComboxTest.exe
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\ComboxTest.pdb
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\bin\Debug\ComboxTest.exe
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\bin\Debug\ComboxTest.pdb
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\ComboxTest.csprojResolveAssemblyReference.cache
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\MainWindow.g.cs
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\App.g.cs
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\ComboxTest_MarkupCompile.cache
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\ComboxTest_MarkupCompile.lref
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\MainWindow.baml
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\ComboxTest.g.resources
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\ComboxTest.Properties.Resources.resources
+C:\Users\GR\Documents\Visual Studio 2015\Projects\AnimationTest\WPF_Learn\ComboxTest\ComboxTest\obj\Debug\ComboxTest.csproj.GenerateResource.Cache

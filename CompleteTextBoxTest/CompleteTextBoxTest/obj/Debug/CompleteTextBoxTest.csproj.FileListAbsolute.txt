@@ -1,0 +1,17 @@
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\bin\Debug\CompleteTextBoxTest.exe.config
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\bin\Debug\CompleteTextBoxTest.exe
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\bin\Debug\CompleteTextBoxTest.pdb
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\CompleteTextBoxTest.csprojResolveAssemblyReference.cache
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\AutoCompleteTextBox.baml
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\AutoCompleteTextBox.g.cs
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\MainWindow.g.cs
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\App.g.cs
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\CompleteTextBoxTest_MarkupCompile.cache
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\CompleteTextBoxTest_MarkupCompile.lref
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\MainWindow.baml
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\CompleteTextBoxTest.g.resources
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\CompleteTextBoxTest.Properties.Resources.resources
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\CompleteTextBoxTest.csproj.GenerateResource.Cache
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\CompleteTextBoxTest.exe
+c:\users\gr\documents\visual studio 2015\Projects\CompleteTextBoxTest\CompleteTextBoxTest\obj\Debug\CompleteTextBoxTest.pdb

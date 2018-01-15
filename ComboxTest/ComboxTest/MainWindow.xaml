@@ -11,6 +11,9 @@
         <Style x:Key="k1" TargetType="{x:Type Border}">
             <Setter Property="BorderBrush" Value="Blue"/>
             <Style.Triggers>
+                <Trigger Property="IsFocused" Value="true">
+                    <Setter Property="BorderBrush" Value="red"/>
+                </Trigger>
                 <DataTrigger Binding="{Binding IsFocused, ElementName=comboBox}" Value="true">
                     <Setter Property="BorderBrush" Value="red"/>
                 </DataTrigger>
