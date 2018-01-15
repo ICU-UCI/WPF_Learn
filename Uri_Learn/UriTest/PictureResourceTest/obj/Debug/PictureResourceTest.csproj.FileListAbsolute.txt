@@ -1,0 +1,8 @@
+H:\学习资料\我的代码\UriTest\PictureResourceTest\bin\Debug\PictureResourceTest.pdb
+H:\学习资料\我的代码\UriTest\PictureResourceTest\obj\Debug\PictureResourceTest.csprojResolveAssemblyReference.cache
+H:\学习资料\我的代码\UriTest\PictureResourceTest\obj\Debug\PictureResourceTest.g.resources
+H:\学习资料\我的代码\UriTest\PictureResourceTest\obj\Debug\PictureResourceTest.Properties.Resources.resources
+H:\学习资料\我的代码\UriTest\PictureResourceTest\obj\Debug\PictureResourceTest.csproj.GenerateResource.Cache
+H:\学习资料\我的代码\UriTest\PictureResourceTest\obj\Debug\PictureResourceTest.pdb
+H:\学习资料\我的代码\UriTest\PictureResourceTest\bin\Debug\PictureResourceTest.dll
+H:\学习资料\我的代码\UriTest\PictureResourceTest\obj\Debug\PictureResourceTest.dll

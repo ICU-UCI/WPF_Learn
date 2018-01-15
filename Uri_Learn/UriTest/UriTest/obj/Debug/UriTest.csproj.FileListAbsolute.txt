@@ -1,0 +1,16 @@
+H:\学习资料\我的代码\UriTest\UriTest\bin\Debug\UriTest.exe.config
+H:\学习资料\我的代码\UriTest\UriTest\bin\Debug\UriTest.exe
+H:\学习资料\我的代码\UriTest\UriTest\bin\Debug\UriTest.pdb
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\UriTest.csprojResolveAssemblyReference.cache
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\MainWindow.g.cs
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\App.g.cs
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\UriTest_MarkupCompile.cache
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\UriTest_MarkupCompile.lref
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\MainWindow.baml
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\UriTest.g.resources
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\UriTest.Properties.Resources.resources
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\UriTest.csproj.GenerateResource.Cache
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\UriTest.exe
+H:\学习资料\我的代码\UriTest\UriTest\obj\Debug\UriTest.pdb
+H:\学习资料\我的代码\UriTest\UriTest\bin\Debug\PictureResourceTest.pdb
+H:\学习资料\我的代码\UriTest\UriTest\bin\Debug\PictureResourceTest.dll
