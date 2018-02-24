@@ -1,0 +1,15 @@
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\WPFCarouselDemo.csprojResolveAssemblyReference.cache
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\SphereControl.baml
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\App.baml
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\SphereControl.g.cs
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\WPFDemoWindow.g.cs
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\App.g.cs
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\WPFDemoWindow.baml
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\zls\Documents\GitHub\WPF_Learn\51CTO下载-wpfcarousel-20228\WPFDemo\obj\Debug\WPFDemo.pdb

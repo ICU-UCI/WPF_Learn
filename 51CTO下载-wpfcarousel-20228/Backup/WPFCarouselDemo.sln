@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF75FE69-7512-4B03-A361-C58A1D75CD04}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		WPFCarouselDemo.vsmdi = WPFCarouselDemo.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCarouselDemo", "WPFDemo\WPFCarouselDemo.csproj", "{12020547-0D16-4640-8440-DCB294BFE9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCarouselDemo.SampleTests", "WPFDemo.SampleTests\WPFCarouselDemo.SampleTests.csproj", "{FE0EE356-5B17-4D67-9E28-C954D2B190D8}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vstfadsgroup:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WPFDemo\\WPFCarouselDemo.csproj
+		SccProjectName1 = WPFDemo
+		SccLocalPath1 = WPFDemo
+		SccProjectUniqueName2 = WPFDemo.SampleTests\\WPFCarouselDemo.SampleTests.csproj
+		SccProjectName2 = WPFDemo.SampleTests
+		SccLocalPath2 = WPFDemo.SampleTests
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = WPFCarouselDemo.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12020547-0D16-4640-8440-DCB294BFE9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12020547-0D16-4640-8440-DCB294BFE9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12020547-0D16-4640-8440-DCB294BFE9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12020547-0D16-4640-8440-DCB294BFE9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0EE356-5B17-4D67-9E28-C954D2B190D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0EE356-5B17-4D67-9E28-C954D2B190D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0EE356-5B17-4D67-9E28-C954D2B190D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0EE356-5B17-4D67-9E28-C954D2B190D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
